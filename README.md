@@ -1,7 +1,11 @@
 # Livro de Receitas  :man_cook:
 
-Ola! Bem vindo ao meu livro de receitas :handshake:
+Olá! Bem vindo ao meu livro de receitas :handshake:
 
 * Strogonoff de Frango
+
 * Pavê
+  
 * Bolo de Chocolate
+
+* Bolo de Cenoura
