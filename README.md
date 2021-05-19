@@ -1,4 +1,4 @@
-# Livro de Receitas  :man_cook:
+﻿# Livro de Receitas  :man_cook:
 
 Olá! Bem vindo ao meu livro de receitas :handshake:
 
@@ -9,3 +9,5 @@ Olá! Bem vindo ao meu livro de receitas :handshake:
 * Bolo de Chocolate
 
 * Bolo de Cenoura
+
+* Bolo de Morango
