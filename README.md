@@ -9,3 +9,5 @@ Olá! Bem vindo ao meu livro de receitas :handshake:
 * Bolo de Chocolate
 
 * Bolo de Cenoura
+
+* Torta de Laranja
