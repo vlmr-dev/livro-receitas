@@ -9,5 +9,3 @@ Olá! Bem vindo ao meu livro de receitas :handshake:
 * Bolo de Chocolate
 
 * Bolo de Morango
-
-* Torta de Laranja
