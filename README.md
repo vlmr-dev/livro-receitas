@@ -11,3 +11,5 @@ Olá! Bem vindo ao meu livro de receitas :handshake:
 * Bolo de Cenoura
 
 * Bolo de Morango
+
+* Torta de Laranja
